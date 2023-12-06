@@ -1,1 +1,3 @@
-# practica-import-export-js
+# javascript
+
+Practica de import - export en js.
